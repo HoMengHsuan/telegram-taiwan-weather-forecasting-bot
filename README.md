@@ -2,6 +2,8 @@
 
 A telegram bot that will tell you the weather forecast for counties and cities in Taiwan for the next 3 days including: temperature, humidity and rainfall rate
 
+The bot crawler the The Weather Channel website data.
+
 ### Prerequisites
 
 Telegram Desktop : https://desktop.telegram.org/
