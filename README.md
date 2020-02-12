@@ -25,7 +25,3 @@ Updater('token')
 ```
 
 notes: the weather message parse_mode is base on the html style, so the text could be missing order when you show on the mobile device.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
