@@ -27,3 +27,7 @@ Updater('token')
 ```
 
 notes: the weather message parse_mode is base on the html style, so the text could be missing order when you show on the mobile device.
+
+## How to Use
+
+text the /weather function in the chatroom, for example : /weather 新竹市
